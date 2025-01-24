@@ -1,0 +1,37 @@
+.box{
+
+    width:600px;height:700px; background-color: darkgray; margin:auto; 
+}
+h2{
+
+    text-align: center; color:whitesmoke; background-color:crimson;
+}
+
+img{
+
+
+    width: 600px;
+}
+
+.flower{
+
+    height:250px; width:250px; margin-left:100%; float: right; margin-top:80px;
+}
+
+.from-control{
+width: 50%;
+
+
+}
+
+
+.mapimg{
+
+width: 350px;  
+
+}
+.data{
+
+
+    float: right; margin-top: 15%; margin-right:20%;
+}
